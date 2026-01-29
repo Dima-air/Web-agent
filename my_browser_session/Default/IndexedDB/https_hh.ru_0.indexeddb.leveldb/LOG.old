@@ -1,0 +1,14 @@
+2026/01/27-14:37:31.895 d37f Reusing MANIFEST /home/workai/PycharmProjects/Test_AI/my_browser_session/Default/IndexedDB/https_hh.ru_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/27-14:37:31.895 d37f Recovering log #34
+2026/01/27-14:37:31.895 d37f Reusing old log /home/workai/PycharmProjects/Test_AI/my_browser_session/Default/IndexedDB/https_hh.ru_0.indexeddb.leveldb/000034.log 
+2026/01/27-14:37:31.895 d37f Delete type=2 #32
+2026/01/27-14:37:31.939 d382 Level-0 table #39: started
+2026/01/27-14:37:31.941 d382 Level-0 table #39: 1396 bytes OK
+2026/01/27-14:37:31.943 d382 Delete type=0 #34
+2026/01/27-14:37:31.943 d37f Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 967 : 1
+2026/01/27-14:37:31.943 d37f Compacting 1@0 + 1@1 files
+2026/01/27-14:37:31.945 d37f Generated table #40@0: 37 keys, 905 bytes
+2026/01/27-14:37:31.945 d37f Compacted 1@0 + 1@1 files => 905 bytes
+2026/01/27-14:37:31.947 d37f compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/27-14:37:31.947 d37f Delete type=2 #39
+2026/01/27-14:37:31.947 d37f Manual compaction at level-0 from '\x00\x0c\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 967 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)

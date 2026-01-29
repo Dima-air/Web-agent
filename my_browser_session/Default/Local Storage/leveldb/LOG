@@ -1,0 +1,5 @@
+2026/01/27-16:34:35.529 efc0 Reusing MANIFEST /home/workai/PycharmProjects/Test_AI/my_browser_session/Default/Local Storage/leveldb/MANIFEST-000001
+2026/01/27-16:34:35.533 efc0 Recovering log #4
+2026/01/27-16:34:35.533 efc0 Reusing old log /home/workai/PycharmProjects/Test_AI/my_browser_session/Default/Local Storage/leveldb/000004.log 
+2026/01/27-16:34:51.538 efc0 Level-0 table #8: started
+2026/01/27-16:34:51.548 efc0 Level-0 table #8: 292193 bytes OK
